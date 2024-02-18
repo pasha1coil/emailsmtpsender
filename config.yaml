@@ -1,0 +1,10 @@
+auth:
+  identity: ""
+  username: ""
+  password: ""
+sender: ""
+apiUrl: ""
+apiKey: ""
+subject: ""
+body:  ""
+mailListFilePath: ""
